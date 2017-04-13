@@ -5,9 +5,9 @@ Download the [**PGC-ParticleSystem.zip**](PGC-ParticleSystem.zip) for the standa
 
 # Advanced Goals
 - [x] Simple points. 
-- [x] Gravity. 
-- [x] Shapes and multiple emitters.
-- [x] Multiple particle systems. 
+- [x] Gravity. (Sparks Emitter from Spaceship Exhaust and Rain Particle System)
+- [x] Shapes and multiple emitters. (Spaceship Exhaust is composed of five different emitters)
+- [x] Multiple particle systems. (Rain and Spaceship Exhaust)
 - [ ] Add a repellor/attractor. 
 - [ ] Add trails. 
 - [ ] Create a compelling explosion effect. 
