@@ -4,6 +4,6 @@ C++ Particle Systems with SFML.
 Download the [**PGC-ParticleSystem.zip**](PGC-ParticleSystem.zip) for the standalone executable.
 
 # Controls
-A - Increases Particles.
+**A** - Increases Particles.
 
-S - Decreases Particles.
+**S** - Decreases Particles.
